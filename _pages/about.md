@@ -501,13 +501,6 @@ Here are some of my works:
   <img src="images/mahyar-abdi-jungle-after-rain.jpg" alt="jungle after the rain">
   <img src="images/mahyar-abdi-caspiansea.jpg" alt="beach of caspian sea">
 
-  <#!-- Horizontal images side by side -->
-  <#div class="wide-row">
-    <#img src="images/shayan-kebriti-Fx6t9zEnRyo-unsplash.jpg" alt="Camping in the mountains">
-    <#img src="images/shayan-kebriti-Yg5d7P3KQFg-unsplash.jpg" alt="Lake and forest landscape">
-  </#div>
-</#div>
-
 <p style="margin-top:20px;">
   In case you’re curious, you can explore more of my adventures and photography on 
   <a href="https://unsplash.com/@mahyar789  " target="_blank">Unsplash</a>.
