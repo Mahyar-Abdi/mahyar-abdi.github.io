@@ -19,7 +19,7 @@ google_analytics: G-VREJYTN6LP
 
 
 # SEO Related
-google_site_verification : # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  <meta name="google-site-verification" content="MKoKCrMu5puhXwj_8kgy5hdBno-QBKVisM3zOCFQsfE" />
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
