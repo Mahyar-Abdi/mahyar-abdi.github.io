@@ -338,17 +338,12 @@ Passionate about exploring the intersection of biology and computational methods
     </div>
     <div class="experience-role">Bioinformatics & Genomics Research Project</div>
     <div class="experience-topics">
-      <p>
-Our research focuses on exploring the genetic diversity of <i>Helicobacter pylori</i> outer membrane proteins (OMPs) using whole-genome sequencing. <i>H. pylori</i> infects more than half of the world’s population, and its success as a pathogen is largely due to its highly variable antigenic structures. We analyzed 30 Iranian isolates and used a custom Python-based BLAST+ pipeline to assess the presence, absence, and variation of 61 OMP genes.
-</p>
+      Our research focuses on exploring the genetic diversity of <i>Helicobacter pylori</i> outer membrane proteins (OMPs) using whole-genome sequencing. <i>H. pylori</i> infects more than half of the world’s population, and its success as a pathogen is largely due to its highly variable antigenic structures. We analyzed 30 Iranian isolates and used a custom Python-based BLAST+ pipeline to assess the presence, absence, and variation of 61 OMP genes.<br><br>
 
-<p>
-Our results revealed significant diversity among these genes, identifying over 600 novel alleles and distinct distribution patterns. Some genes, such as <i>hopC</i> and <i>horA</i>, were universally present, while others like <i>babC</i> and <i>hopU</i> were completely absent. These findings highlight the strong evolutionary pressures acting on OMPs and their roles in adaptation, immune evasion, and antibiotic resistance.
-</p>
+Our results revealed significant diversity among these genes, identifying over 600 novel alleles and distinct distribution patterns. Some genes, such as <i>hopC</i> and <i>horA</i>, were universally present, while others like <i>babC</i> and <i>hopU</i> were completely absent. These findings highlight the strong evolutionary pressures acting on OMPs and their roles in adaptation, immune evasion, and antibiotic resistance.<br><br>
 
-<p>
 This study provides valuable insights into the molecular evolution of <i>H. pylori</i> and identifies potential targets for developing new therapeutic and vaccine strategies, particularly relevant for high-prevalence regions such as Iran.
-</p>
+
 
     </div>
   </div>
