@@ -496,17 +496,10 @@ Each activity is a reminder that small, consistent steps can lead to lasting str
 
 Here are some of my works:
 <div class="hobbies-gallery">
-  <img src="images/mahyar-abdi-north-jungle.jpg" alt="jungle view">
-  <img src="images/mahyar-abdi-lake-iran.jpg" alt="Lake and mountain landscape">
-  <img src="images/mahyar-abdi-jungle-after-rain.jpg" alt="jungle after the rain">
-  <img src="images/mahyar-abdi-caspiansea.jpg" alt="beach of caspian sea">
-
-  <#!-- Horizontal images side by side -->
-  <#div class="wide-row">
-    <#img src="images/shayan-kebriti-Fx6t9zEnRyo-unsplash.jpg" alt="Camping in the mountains">
-    <#img src="images/shayan-kebriti-Yg5d7P3KQFg-unsplash.jpg" alt="Lake and forest landscape">
-  </#div>
-</#div>
+  <img src="images/mahyar-abdi-north-jungle.webp" alt="jungle view">
+  <img src="images/mahyar-abdi-lake-iran.webp" alt="Lake and mountain landscape">
+  <img src="images/mahyar-abdi-jungle-after-rain.webp" alt="jungle after the rain">
+  <img src="images/mahyar-abdi-caspiansea.webp" alt="beach of caspian sea">
 
 <p style="margin-top:20px;">
   In case you’re curious, you can explore more of my adventures and photography on 
