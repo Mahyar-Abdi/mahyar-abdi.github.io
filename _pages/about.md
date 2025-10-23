@@ -338,10 +338,11 @@ Passionate about exploring the intersection of biology and computational methods
     </div>
     <div class="experience-role">Bioinformatics & Genomics Research Project</div>
     <div class="experience-topics">
-      Conducted comparative genomic analysis of 61 OMP genes in <i>H. pylori</i>. 
-      Identified 611 novel alleles, with hopC and horA consistently present and babC absent. 
-      Findings highlight promising targets for vaccine development and personalized therapies, 
-      particularly for high-prevalence populations in Iran.
+      Our research focuses on exploring the genetic diversity of Helicobacter pylori outer membrane proteins (OMPs) using whole-genome sequencing. H. pylori infects more than half of the world’s population, and its success as a pathogen is largely due to its highly variable antigenic structures. We analyzed 30 Iranian isolates and used a custom Python-based BLAST+ pipeline to assess the presence, absence, and variation of 61 OMP genes.
+
+Our results revealed significant diversity among these genes, identifying over 600 novel alleles and distinct distribution patterns. Some genes, such as hopC and horA, were universally present, while others like babC and hopU were completely absent. These findings highlight the strong evolutionary pressures acting on OMPs and their roles in adaptation, immune evasion, and antibiotic resistance.
+
+This study provides valuable insights into the molecular evolution of H. pylori and identifies potential targets for developing new therapeutic and vaccine strategies, particularly relevant for high-prevalence regions such as Iran.
     </div>
   </div>
   <div class="experience-logo">
