@@ -106,24 +106,18 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
-}
-/*===== Zoom on hover for project images =====*/
+}/* ===== Zoom for Research & Project images (Minimal Mistakes) ===== */
 
-.experience-logo,
-.project-image {
-  width: 350px;       /* اندازه قابل تغییر */
-  overflow: hidden;   /* برای مخفی کردن اضافات عکس */
+.paper-box-image {
+  overflow: hidden;
 }
 
-.experience-logo img,
-.project-image img {
-  width: 100%;
-  height: auto;
+.paper-box-image img {
   transition: transform 0.4s ease;
   cursor: zoom-in;
 }
 
-.experience-logo:hover img,
-.project-image:hover img {
-  transform: scale(1.8) !important;
+.paper-box-image:hover img {
+  transform: scale(1.8);
 }
+
