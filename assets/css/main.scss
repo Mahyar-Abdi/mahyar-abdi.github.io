@@ -107,18 +107,23 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
-.experience-logo {
-  width: 350px;        /* می‌تونی عوضش کنی */
-  overflow: hidden;
+/*===== Zoom on hover for project images =====*/
+
+.experience-logo,
+.project-image {
+  width: 350px;       /* اندازه قابل تغییر */
+  overflow: hidden;   /* برای مخفی کردن اضافات عکس */
 }
 
-.experience-logo img {
+.experience-logo img,
+.project-image img {
   width: 100%;
   height: auto;
   transition: transform 0.4s ease;
   cursor: zoom-in;
 }
 
-.experience-logo:hover img {
+.experience-logo:hover img,
+.project-image:hover img {
   transform: scale(1.8);
 }
