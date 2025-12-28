@@ -34,7 +34,6 @@ author:
   email            : "Mahyarr.Abdi789@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   github           : "Mahyar-Abdi"
-  instagram        :"mahyar.789
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   linkedin         : "mahyar-abdi" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
@@ -79,7 +78,6 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
