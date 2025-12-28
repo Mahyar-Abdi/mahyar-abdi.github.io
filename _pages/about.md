@@ -308,7 +308,7 @@ redirect_from:
 # About Me
 
 I am **Mahyar Abdi**, a Biology undergraduate student at Shahid Beheshti University, Tehran, Iran.  
-My research interests include **bioinformatics, neuroscience, molecular biology, genetics, and genomics**.  
+My research interests include **bioinformatics, neuroscience, molecular biology, Structural biology, and genomics**.  
 Passionate about exploring the intersection of biology and computational methods.  
 
 
@@ -321,9 +321,9 @@ Passionate about exploring the intersection of biology and computational methods
     </div>
     <div class="experience-role">Neuroscience Research Project</div>
     <div class="experience-topics">
-      This study investigated the anticonvulsant potential of Ketoprofen (KP) in male Wistar rats 
-      with PTZ-induced seizures. Results showed KP significantly reduced the duration and severity 
-      of seizures, suggesting its potential as an anti-inflammatory therapeutic approach for seizure disorders.
+     In this project, I investigated the anticonvulsant effects of ketoprofen (KP) in a pentylenetetrazol (PTZ)-induced seizure model in male Wistar rats. PTZ was used to induce acute seizures by disrupting inhibitory GABAergic signaling. Ketoprofen was administered at two different doses prior to PTZ injection, and seizure severity was evaluated using the modified Racine scale. Behavioral parameters, including myoclonic jerk frequency and generalized tonic-clonic seizure duration, were quantitatively analyzed to assess seizure intensity.
+
+In addition to behavioral analysis, I examined oxidative stress and neuroinflammatory mechanisms associated with seizure activity. PTZ significantly increased oxidative stress, as shown by reduced total antioxidant capacity (TAC) and elevated total oxidant status (TOS), while ketoprofen treatment restored antioxidant balance in a dose-dependent manner. Molecular analysis revealed that PTZ markedly upregulated NF-κB (Nfkb1) expression, which was significantly suppressed by ketoprofen. These findings suggest that ketoprofen reduces seizure severity not only through behavioral effects but also by modulating inflammatory and oxidative stress pathways, highlighting its potential as an adjunct therapeutic approach for seizure disorders.
     </div>
   </div>
   <div class="experience-logo">
