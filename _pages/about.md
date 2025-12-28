@@ -321,9 +321,7 @@ Passionate about exploring the intersection of biology and computational methods
     </div>
     <div class="experience-role">Neuroscience Research Project</div>
     <div class="experience-topics">
-     In this project, I investigated the anticonvulsant effects of ketoprofen (KP) in a pentylenetetrazol (PTZ)-induced seizure model in male Wistar rats. PTZ was used to induce acute seizures by disrupting inhibitory GABAergic signaling. Ketoprofen was administered at two different doses prior to PTZ injection, and seizure severity was evaluated using the modified Racine scale. Behavioral parameters, including myoclonic jerk frequency and generalized tonic-clonic seizure duration, were quantitatively analyzed to assess seizure intensity.
-
-In addition to behavioral analysis, I examined oxidative stress and neuroinflammatory mechanisms associated with seizure activity. PTZ significantly increased oxidative stress, as shown by reduced total antioxidant capacity (TAC) and elevated total oxidant status (TOS), while ketoprofen treatment restored antioxidant balance in a dose-dependent manner. Molecular analysis revealed that PTZ markedly upregulated NF-κB (Nfkb1) expression, which was significantly suppressed by ketoprofen. These findings suggest that ketoprofen reduces seizure severity not only through behavioral effects but also by modulating inflammatory and oxidative stress pathways, highlighting its potential as an adjunct therapeutic approach for seizure disorders.
+    Investigated the anticonvulsant effects of ketoprofen in a PTZ-induced seizure model in male Wistar rats, integrating behavioral, molecular, and biochemical analyses. Demonstrated dose-dependent reductions in seizure severity, myoclonic jerks, and tonic-clonic seizure duration, accompanied by restoration of antioxidant capacity (TAC), attenuation of oxidative stress (TOS), and downregulation of NF-κB (Nfkb1) expression. Findings support a mechanistic link between COX-mediated inflammatory pathways, oxidative stress modulation, and seizure susceptibility.
     </div>
   </div>
   <div class="experience-logo">
@@ -342,7 +340,7 @@ In addition to behavioral analysis, I examined oxidative stress and neuroinflamm
 
 Our results revealed significant diversity among these genes, identifying over 600 novel alleles and distinct distribution patterns. Some genes, such as <i>hopC</i> and <i>horA</i>, were universally present, while others like <i>babC</i> and <i>hopU</i> were completely absent. These findings highlight the strong evolutionary pressures acting on OMPs and their roles in adaptation, immune evasion, and antibiotic resistance.<br><br>
 
-This study provides valuable insights into the molecular evolution of <i>H. pylori</i> and identifies potential targets for developing new therapeutic and vaccine strategies, particularly relevant for high-prevalence regions such as Iran.
+This study provides valuable insights into the molecular evolution of <i>H. pylori</i> and identifies potential targets for developing new therapeutic and vaccine strategies, particularly relevant for high-prevalence regions such as Iran. (For better understanding please Open the Image)
 
 
     </div>
